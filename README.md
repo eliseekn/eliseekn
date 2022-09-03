@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Elisée K. N'Guessan
-===========================================================================================================================================
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 I'm a Full-stack Web Developer
-------------------------------
+==============================
 
 Self-taught and passionate about computer programming, I have 4+ years experience in web applications and API development.
 
