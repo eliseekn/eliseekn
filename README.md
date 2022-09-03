@@ -1,9 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 -------------------------------------------------------------------------------------------------------------
 
-My name is Elisée K. N'Guessan,
+My name is **Elisée K. N'Guessan**,
 
-I'm a self-taught Full-stack Web Developer with 4+ years experience in web applications development.
+I'm a self-taught **Full-stack Web Developer** with **4+ years experience** in web applications development.
 
 *   🌍  I'm based in Abidjan(Côte d'Ivoire)
 *   🖥️  See my portfolio at [[eliseekn](https://eliseekn.netlify.app)](https://eliseekn.netlify.app)
