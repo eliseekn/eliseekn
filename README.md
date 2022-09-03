@@ -9,7 +9,9 @@ Self-taught and passionate about computer programming, I have 3+ years experienc
 *   🌍  I'm based in Abidjan
 *   🖥️  See my portfolio at [eliseekn](http://eliseekn.netlify.app)
 *   ✉️  You can contact me at [eliseekn@gmail.com](mailto:eliseekn@gmail.com)
-*   🧠  I'm learning Next.js### Skills<p align="left">
+*   🧠  I'm learning Next.js
+
+### Skills<p align="left">
                                 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
