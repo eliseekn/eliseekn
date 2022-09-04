@@ -1,5 +1,5 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Elisée K. N'Guessan,
--------------------------------------------------------------------------------------------------------------------------------------------
+Hi 👋, my name is Elisée K. N'Guessan,
+-------------------------------------
 
 I'm a self-taught **Full-stack Web Developer** with **4+ years experience** in web applications development.
 
