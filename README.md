@@ -1,4 +1,4 @@
-Hi 👋, my name is Elisée K. N'Guessan,
+Hello 👋, my name is Elisée K. N'Guessan,
 -------------------------------------
 
 I'm a self-taught **Full-stack developer** with **4+ years experience**.
