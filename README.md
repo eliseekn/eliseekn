@@ -28,7 +28,7 @@ I'm a self-taught **Full-stack developer** with **4+ years experience**.
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge" /></a>&nbsp;
 </p>
 
-#### :fire: My Github's Stats
+#### :fire: My Stats
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eliseekn&show_icons=true&theme=dark" />
 </a>
