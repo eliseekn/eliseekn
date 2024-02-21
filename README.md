@@ -1,6 +1,6 @@
 Hello 👋, my name is Elisée K. N'Guessan,
 =
-I'm a self-taught **Freelance Web/Mobile Developer** with **4+ years experience**.
+I'm a self-taught **Freelance Web/Mobile Developer** with **5+ years experience**.
 
 *   🌍  Abidjan (Côte d'Ivoire)
 *   💻  [eliseekn.netlify.app](https://eliseekn.netlify.app)
