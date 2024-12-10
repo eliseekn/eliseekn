@@ -1,6 +1,6 @@
 Hello 👋, my name is Elisée K. N'Guessan,
 =
-I'm a self-taught **Fulls-tack Developer** with **5+ years experience**.
+I'm a self-taught **Software Developer** with **5+ years experience**.
 
 *   🌍  Abidjan (Côte d'Ivoire)
 *   💻  [eliseekn.netlify.app](https://eliseekn.netlify.app)
@@ -11,11 +11,13 @@ I'm a self-taught **Fulls-tack Developer** with **5+ years experience**.
 #### :brain: I work with
 <p>
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge" /></a>&nbsp;
-  <a target="_blank" href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge" /></a>&nbsp;
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge" /></a>&nbsp;
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge" /></a>&nbsp;
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge" /></a>&nbsp;
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge" /></a>&nbsp;
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge" /></a>&nbsp;
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge" /></a>&nbsp;
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge" /></a>&nbsp;
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge" /></a>&nbsp;
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge" /></a>&nbsp;
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge" /></a>&nbsp;
