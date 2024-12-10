@@ -15,6 +15,7 @@ I'm a self-taught **Software Developer** with **5+ years experience**.
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge" /></a>&nbsp;
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge" /></a>&nbsp;
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge" /></a>&nbsp;
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge" /></a>&nbsp;
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge" /></a>&nbsp;
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge" /></a>&nbsp;
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge" /></a>&nbsp;
